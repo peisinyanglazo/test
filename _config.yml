@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            peisin yang lazo
+tagline:          
+description:      producer
+url:              http://peisinyanglazo.github.io
+baseurl:          /
+
+author:
+  name:           peisin yang lazo
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          
+
+github:
+  repo:           https://github.com/poole/hyde
